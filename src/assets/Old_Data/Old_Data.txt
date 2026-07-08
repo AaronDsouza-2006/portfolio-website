@@ -1,0 +1,26 @@
+  Mini Projects
+
+  {
+    slug: "iso-10218-checklist",
+    title: "ISO 10218 Safety Checklist",
+    description: "Comprehensive compliance checklist based on ISO 10218 industrial robot safety standards",
+    fullDescription: "Comprehensive compliance checklist based on ISO 10218 industrial robot safety standards, developed during internship at Embtron India for ensuring safe robotic system design.",
+    bullets: [
+      "Understood ISO 10218 industrial robot safety standards and compiled them into clear validation guides"
+    ],
+    tags: ["Safety Standards", "Documentation", "Industrial Robotics"],
+    media: [],
+  },
+
+Achievements
+
+  {
+    title: "Lead for Life",
+    description: "Participated in a 2-year long program about Leadership and character development",
+    icon: "leadership",
+  },
+  {
+    title: "HKU Robocon Software Training Program",
+    description: "Attended training program focused on robotics software development.",
+    icon: "training",
+  },
